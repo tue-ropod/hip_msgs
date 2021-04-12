@@ -22,6 +22,7 @@ add_message_files(
     walls.msg
     Pose.msg
     PoseVel.msg
+    PoseVels.msg
     transform.msg
     singleTube.msg
     tube.msg

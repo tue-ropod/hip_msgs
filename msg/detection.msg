@@ -37,7 +37,7 @@
 #int32 personID
 #bool leftLeg
 
-float32 x
+float32 x # 3D position
 float32 y
 float32 z
-float32 p
+float32 p # score (0-100 scale)
